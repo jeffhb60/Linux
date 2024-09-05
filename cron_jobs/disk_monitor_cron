@@ -1,0 +1,2 @@
+# Run disk_monitor.sh every day at 8 AM
+0 8 * * * /path/to/scripts/disk_monitor.sh >> /var/log/disk_monitor.log 2>&1
