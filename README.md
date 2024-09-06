@@ -6,11 +6,10 @@ Welcome to the **Linux System Automation Scripts** repository! This collection o
 
 ## Table of Contents
 
-- [Overview](#overview)
 - [Scripts Included](#scripts-included)
 - [Getting Started](#getting-started)
 - [Script Details](#script-details)
-  - [User Management (`user_management.sh`)](#user-management-usermanagementsh)
+  - [User Management (`user_management.sh`)](#user-management-(`user-management.sh`))
   - [System Backup (`system_backup.sh`)](#system-backup-systembackupsh)
   - [Disk Usage Monitoring (`disk_monitor.sh`)](#disk-usage-monitoring-diskmonitorsh)
   - [Log Cleanup (`log_cleanup.sh`)](#log-cleanup-logcleanupsh)
