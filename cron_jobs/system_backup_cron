@@ -1,0 +1,2 @@
+# Run system_backup.sh every Sunday at 2 AM
+0 2 * * 0 /path/to/scripts/system_backup.sh >> /var/log/system_backup.log 2>&1
